@@ -11,8 +11,7 @@ There is two types of Python scripts (see image below):
 - Python files (.py files): contain all homemade functions necessary for data analyses and statistics.
 - Jupyter Notebooks (.ipynb files, in dark orange): structured files containing behavioural and EEG analyses.
 
-![python scripts workflow](https://osf.io/download/z9rjh/?direct)
-
+![python_scripts_workflow.png](https://github.com/marion-walter/wakeful-rest-eeg/blob/e15d7574d17e1df0a7a6c80cc7f6d9d340a7cd63/python_scripts_workflow.png)
 
 The key scripts are the following three notebooks:
 - analyses.ipynb: contains all the analyses that do not have a figure associated with them.
@@ -39,6 +38,6 @@ R scripts contain the Generalised Linear Mixed Model analyses. Analyses are divi
 - 02_plot_glmm_results : plot the GLMM figure used in the article (Figure 6)
 They should be used in this order.
 
-![R scripts workflow](https://osf.io/download/pcz5j/?direct) 
+![R scripts workflow](https://github.com/marion-walter/wakeful-rest-eeg/blob/e15d7574d17e1df0a7a6c80cc7f6d9d340a7cd63/R_scripts_workflow.png) 
 
 All scripts are commented and include a short introduction briefly describing their content.
