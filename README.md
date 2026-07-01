@@ -30,6 +30,11 @@ The scripts to be used are highlighted in orange (light and dark) in the figure
 2. Run construct_dataset_index.py
 3. Explore notebooks : analyses, figures and supplementaty figures. Notebooks organisation is as follow : IMPORTS section with all necessary imports; CODE section : contains subsection for all analyses/figures computed in the notebook.
 
+### Setup environment
+
+You can use the requirements.txt file to download useful packages and libraries.
+For statistical analyses, download ghibtools here : https://github.com/ValentinGhibaudo/ghibtools/blob/master/setup.py and replace the 'stats.py' file by the one findable in this git repository, then use the setup.py file to install ghibtools.
+
 ## R scripts
 
 R scripts contain the Generalised Linear Mixed Model analyses. Analyses are divised in 3 scripts : 
