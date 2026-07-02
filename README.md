@@ -30,7 +30,7 @@ The scripts to be used are highlighted in orange (light and dark) in the figure
 2. Run construct_dataset_index.py
 3. Explore notebooks : analyses, figures and supplementaty figures. Notebooks organisation is as follow : IMPORTS section with all necessary imports; CODE section : contains subsection for all analyses/figures computed in the notebook.
 
-### Setup environment
+### Setup Python environment
 
 You can use the requirements.txt file to download useful packages and libraries.
 For statistical analyses, I used a homemade toolbox made by Valentin Ghibaudo called 'ghibtools', available here : https://github.com/ValentinGhibaudo/ghibtools and slightly customed by me for vizualisation purposes. This toolbox allows to perform statistical tests and display the results automatically using the pingouin library.
