@@ -33,7 +33,8 @@ The scripts to be used are highlighted in orange (light and dark) in the figure
 ### Setup environment
 
 You can use the requirements.txt file to download useful packages and libraries.
-For statistical analyses, download ghibtools here : https://github.com/ValentinGhibaudo/ghibtools/blob/master/setup.py and replace the 'stats.py' file by the one findable in this git repository, then use the setup.py file to install ghibtools.
+For statistical analyses, I used a homemade toolbox made by Valentin Ghibaudo called 'ghibtools', available here : https://github.com/ValentinGhibaudo/ghibtools and slightly customed by me for vizualisation purposes. This toolbox allows to perform statistical tests and display the results automatically using the pingouin library.
+Download ghibtools here : https://github.com/ValentinGhibaudo/ghibtools and replace the 'stats.py' file by the one findable in this git repository, then use the setup.py file to install ghibtools.
 
 ## R scripts
 
